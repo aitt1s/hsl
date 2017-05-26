@@ -4,8 +4,11 @@
   "private": true,
   "dependencies": {
     "mqtt": "^2.7.2",
+    "prop-types": "^15.5.10",
     "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-google-maps": "^7.0.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {
     "react-scripts": "1.0.6"
